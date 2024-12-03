@@ -70,9 +70,11 @@
     Final variances: [1.01, 0.98]
     Final weights: [0.50, 0.50]
     </pre>
-    <h2>License</h2>
->
-    <h2>Contributing</h2>
+<section>
+  <h3>Acknowledgement</h3>
+  <p>I would like to extend my deepest gratitude to Dr. Victor A.I, professor at Maharaja Institute of Technology Mysore,for his invaluable guidance throughout this project</p>
+  
+</section>
   
 </body>
 </html>
